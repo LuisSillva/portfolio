@@ -2,7 +2,7 @@
 
 Portfólio pessoal de **Luís Fernando**, estudante de Ciência da Computação na Universidade de Passo Fundo e cofundador da Katalyst.
 
-🔗 **Site:** [(https://portfolio-ludi5.vercel.app)]
+🔗 **Site:** [portfolio-ludi5.vercel.app](https://portfolio-ludi5.vercel.app)
 
 ## Sobre o projeto
 
