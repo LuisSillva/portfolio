@@ -38,6 +38,22 @@ export const stack = [
 
 export const projects = [
   {
+    id: 'radar-vagas',
+    image: '/projects/radar.jpg',
+    stack: ['FastAPI', 'Next.js', 'PostgreSQL', 'LLM', 'GitHub Actions'],
+    links: { demo: null, repo: 'https://github.com/LuisSillva/RadarVagas' },
+    pt: {
+      tag: 'Full-stack · IA',
+      title: 'Radar de vagas',
+      text: 'Coleta vagas de estágio e júnior direto dos sistemas de recrutamento de big techs, bancos e multinacionais, filtra com regras e um LLM que dá nota de aderência ao meu perfil, e organiza as candidaturas num kanban. Feito para a minha própria busca por estágio.',
+    },
+    en: {
+      tag: 'Full-stack · AI',
+      title: 'Job radar',
+      text: 'Collects internship and junior roles straight from the hiring systems of big tech companies, banks and multinationals, filters them with rules plus an LLM that scores each role against my profile, and tracks applications on a kanban board. Built for my own internship search.',
+    },
+  },
+  {
     id: 'whatsapp-agent',
     stack: ['LLM', 'Evolution API', 'n8n', 'Python'],
     links: { demo: null, repo: null },
