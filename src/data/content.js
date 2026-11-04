@@ -17,12 +17,14 @@ export const stack = [
   { name: 'Python', group: 'lang' },
   { name: 'JavaScript', group: 'lang' },
   { name: 'Luau', group: 'lang' },
+  { name: 'TypeScript', group: 'lang' },
   { name: 'SQL', group: 'lang' },
   { name: 'HTML/CSS', group: 'lang' },
   { name: 'FastAPI', group: 'back' },
   { name: 'Django', group: 'back' },
   { name: 'SQLAlchemy', group: 'back' },
   { name: 'Pydantic', group: 'back' },
+  { name: 'PostgreSQL', group: 'back' },
   { name: 'OAuth2 / JWT', group: 'back' },
   { name: 'LLM APIs', group: 'ai' },
   { name: 'MCP', group: 'ai' },
@@ -32,8 +34,10 @@ export const stack = [
   { name: 'Evolution API', group: 'auto' },
   { name: 'Google Places API', group: 'auto' },
   { name: 'React / Vite', group: 'front' },
+  { name: 'Next.js', group: 'front' },
   { name: 'Vercel', group: 'front' },
   { name: 'Git / GitHub', group: 'front' },
+  { name: 'GitHub Actions', group: 'front' },
 ]
 
 export const projects = [
